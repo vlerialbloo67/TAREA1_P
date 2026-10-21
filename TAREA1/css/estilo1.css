@@ -1,0 +1,60 @@
+body{
+  background-color: red;
+}
+.principal{
+  background-color: yellow;
+  padding: 5px;
+}
+header{
+  background-color: gold;
+  color: black;
+  
+  text-align:center;
+  
+  padding: 3px;
+  margin: 3px;
+}
+nav{
+  background-color: black;
+  padding: 3px;
+  margin: 3px
+  
+}
+ul{
+  color: azure;
+  list-style: none;
+  
+}
+li{
+  background-color: orange;
+  color: azure;
+  display: inline;
+  padding: 3px;
+  
+  border-radius: 10px;
+  
+}
+a{
+  text-decoration: none;
+}
+.contenido{
+  display:flex;
+}
+section{
+  background-color: azure;
+  margin: 3px;
+  width:49%;
+}
+footer{
+  background-color: black;
+  padding: 3px;
+  color: gold;
+  text-align: center;
+  margin:3px;
+  
+}
+img{
+  width: 300px;
+  height: 200px;
+}
+
